@@ -1,4 +1,4 @@
-# word_helper
+# Word Helper
 A simple dictionary to check the given word
 
 ## Run program
